@@ -1,0 +1,4 @@
+Selected directory:{path}
+Selected music:{music_path}
+Song ID to replace: {song_id_entry.get()}
+Succesfully replaced song to selected song
